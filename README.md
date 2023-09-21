@@ -13,6 +13,16 @@
 - [Scikit-learn](https://pypi.org/project/scikit-learn/)
 - [Streamlit](https://streamlit.io/)<br>
 
+To install the above libraries
+```
+pip install -r requirements.txt
+```
+
+To run the **Disease Prediction** web application
+```
+streamlit run app.py
+```
+
 
 
 

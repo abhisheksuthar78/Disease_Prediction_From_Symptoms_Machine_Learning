@@ -1,1 +1,1 @@
-# Machine-Learning-algorithms-for-predicting-the-risks-of-chronic-diseases
+# Machine Learning algorithms for predicting the risks of chronic diseases

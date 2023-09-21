@@ -10,6 +10,8 @@
 - [NumPy](https://pypi.org/project/numpy/) 
 - [Pandas](https://pypi.org/project/pandas/) 
 - [Matplotlib](https://pypi.org/project/matplotlib/)
+- [Seaborn](https://pypi.org/project/seaborn/)
+- [Joblib](https://pypi.org/project/joblib/)
 - [Scikit-learn](https://pypi.org/project/scikit-learn/)
 - [Streamlit](https://streamlit.io/)<br>
 

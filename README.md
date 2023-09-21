@@ -20,12 +20,13 @@ To install the above libraries
 pip install -r requirements.txt
 ```
 
-To run the **Disease Prediction** web application
+To run the **Disease Prediction** web application<br>
 ```
 streamlit run app.py
 ```
 
+***Disease Prediction model accuracy on testing dataset***
 
 
-
+<img width="587" alt="Screenshot 2023-09-20 at 6 55 39 PM" src="https://github.com/abhisheksuthar78/Disease_Prediction_From_Symptoms_Machine_Learning/assets/93634268/02894551-af6c-46e3-9d92-8f5e44b40174">
 
